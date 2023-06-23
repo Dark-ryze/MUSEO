@@ -1,0 +1,34 @@
+body{
+    background-image: url(militarf.jpg);
+}
+
+.titulo{
+    color: white;
+    font-size: 40px;
+}
+
+.titulo:hover{
+    color: orange;
+}
+
+<footer class="footer">
+  <p class="testu">Al presionar alguno de los botones que se llaman planta alta y baja podrás visualizar unos planos en los cuales encontrarás todo lo que expone el museo en cada una de sus 12 salas y 4 galerías. Así podrás conocer la historia de la Aviación Mexicana, así como sus armamentos y aeronaves que se encuentran expuestas en el MUMA.</p>
+</footer>
+
+<style>
+  .footer {
+    text-align: center;
+    padding: 20px;
+  }
+
+  @media (max-width: 768px) {
+    .footer {
+      font-size: 16px;
+    }
+  }
+</style>
+
+}
+
+
+  
